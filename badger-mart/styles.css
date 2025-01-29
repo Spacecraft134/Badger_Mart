@@ -22,9 +22,16 @@ table, th, td {
 
 /* TODO: Add your primary and secondary styling below! */
 .primary-button {
-
+background-color: red;
+border-color: blue;
+border-radius: 0.5rem;
+cursor: pointer;
 }
 
 .secondary-button {
-  
+  background-color: limegreen;
+  border-color: blueviolet;
+  cursor: pointer;
+  background-image: linear-gradient(to right, blue, yellow);
+
 }
