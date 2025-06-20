@@ -17,3 +17,9 @@ Badger Mart is a simple e-commerce prototype built to demonstrate core front-end
 - HTML5
 - CSS3
 - JavaScript (ES6)
+
+## Author
+
+**Rohith Ravikumar**  
+University of Wisconsin–Madison  
+GitHub: [https://github.com/Spacecraft134](https://github.com/Spacecraft134)
