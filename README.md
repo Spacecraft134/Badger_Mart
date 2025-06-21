@@ -2,7 +2,7 @@
 
 Badger Mart is a simple e-commerce prototype built to demonstrate core front-end web development skills using **HTML**, **CSS**, and **JavaScript**. 
 
- **Disclaimer:** This project was originally developed as part of a university course (CS571 at UW–Madison). Certain features (like the data-fetching endpoint) require authentication to CS571 course APIs and will **not function outside the course environment**. This repository is for **demonstration and learning purposes only**.
+ **Disclaimer:** This project was originally developed as part of a university course (CS571 at UW–Madison). Certain features (such as the daily featured item or form submission) require authentication to CS571 course APIs and will **not function outside the course environment**. This repository is for **demonstration and learning purposes only**.
 ---
 
 ## Features
